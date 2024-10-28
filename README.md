@@ -17,3 +17,5 @@ The following algorithms have been implemented and analyzed within the project:
 - Data cleaning and noise reduction
 - Segmentation of point cloud data
 - Visualization tools for analyzing point cloud datasets
+
+Team members: Hastor Tarik, Borovina Lamija
